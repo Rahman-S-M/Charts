@@ -1,5 +1,5 @@
 # Charts
-Charts project to implement all charts features used in LIOSK platform
+Charts project is a reference implementation of all chart features used in LIOSK platform.
 
 Open Source Angular2 Chart Libraries
 
