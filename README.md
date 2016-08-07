@@ -14,7 +14,18 @@ npm install ng2-charts --save
 
 
 
+
+
 #References
+
+NG2Charts
+http://valor-software.com/ng2-charts/
+Charts.js
+
+
+
 1.Rounded Corners for doughnut chart
 http://stackoverflow.com/questions/20966817/how-to-add-text-inside-the-doughnut-chart-using-chart-js
-2.
+2.Text inside doughbut
+https://jsfiddle.net/cmyker/u6rr5moq/
+http://jsfiddle.net/mayankcpdixit/6xV78/
